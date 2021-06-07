@@ -1,1 +1,5 @@
+<<<<<<< HEAD
 {"missionId": "529", "missionName": "Fischsterben in Gewässer", "requirements": [{"requirement": "löschfahrzeuge", "qty": "3"}, {"requirement": "rüstwagen", "qty": "1"}, {"requirement": "elw 1", "qty": "1"}, {"requirement": "gw-mess", "qty": "1"}, {"requirement": "gkw", "qty": "1"}, {"requirement": "mzkw", "qty": "1"}, {"requirement": "mtw-tz", "qty": "1"}, {"requirement": "boote", "qty": "2"}, {"requirement": "streifenwagen", "qty": "2"},{"requirement": "gw-wasserrettung", "qty": "2"}], "credits": "0"}
+=======
+{"missionId": "529", "missionName": "Fischsterben in Gewässer", "requirements": [{"requirement": "gw-wasserrettung", "qty": "2"},{"requirement": "löschfahrzeuge", "qty": "3"}, {"requirement": "rüstwagen", "qty": "1"}, {"requirement": "elw 1", "qty": "1"}, {"requirement": "gw-mess", "qty": "1"}, {"requirement": "gkw", "qty": "1"}, {"requirement": "mzkw", "qty": "1"}, {"requirement": "mtw-tz", "qty": "1"}, {"requirement": "boote", "qty": "2"}, {"requirement": "streifenwagen", "qty": "2"}], "credits": "0"}
+>>>>>>> 43c6fb865b80fc04cee82e297614f54e72b3a3a4

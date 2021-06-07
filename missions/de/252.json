@@ -1,1 +1,5 @@
+<<<<<<< HEAD
 {"missionId": "252", "missionName": "Person in Wasser", "requirements": [{"requirement": "boote", "qty": "1"},{"requirement": "gw-wasserrettung", "qty": "2"}, {"requirement": "löschfahrzeuge", "qty": "3"}, {"requirement": "elw 1", "qty": "1"}, {"requirement": "maximale patientenanzahl", "qty": "1"}], "credits": "1400"}
+=======
+{"missionId": "252", "missionName": "Person in Wasser", "requirements": [{"requirement": "boote", "qty": "1"}, {"requirement": "löschfahrzeuge", "qty": "3"}, {"requirement": "elw 1", "qty": "1"},{"requirement": "gw-wasserrettung", "qty": "2"}, {"requirement": "maximale patientenanzahl", "qty": "1"}], "credits": "1400"}
+>>>>>>> 43c6fb865b80fc04cee82e297614f54e72b3a3a4

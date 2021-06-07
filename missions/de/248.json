@@ -1,1 +1,5 @@
+<<<<<<< HEAD
 {"missionId": "248", "missionName": "LKW in Wasser", "requirements": [{"requirement": "streifenwagen", "qty": "3"},{"requirement": "gw-wasserrettung", "qty": "2"}, {"requirement": "boote", "qty": "3"}, {"requirement": "gw-taucher", "qty": "3"}, {"requirement": "löschfahrzeuge", "qty": "5"}, {"requirement": "elw 1", "qty": "1"}, {"requirement": "maximale patientenanzahl", "qty": "1"}], "credits": "2000"}
+=======
+{"missionId": "248", "missionName": "LKW in Wasser", "requirements": [{"requirement": "streifenwagen", "qty": "3"}, {"requirement": "boote", "qty": "3"}, {"requirement": "gw-taucher", "qty": "3"}, {"requirement": "löschfahrzeuge", "qty": "5"}, {"requirement": "elw 1", "qty": "1"},{"requirement": "gw-wasserrettung", "qty": "2"}, {"requirement": "maximale patientenanzahl", "qty": "1"}], "credits": "2000"}
+>>>>>>> 43c6fb865b80fc04cee82e297614f54e72b3a3a4
