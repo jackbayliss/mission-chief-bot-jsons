@@ -1,0 +1,1 @@
+{"missionId": "160", "missionName": "Trafikolycka - singel, buss i vatten", "requirements": [{"requirement": "polisbilar", "qty": "3"}, {"requirement": "båtar", "qty": "3"}, {"requirement": "dykbilar", "qty": "3"}, {"requirement": "släckbilar", "qty": "5"}, {"requirement": "brandbefäl", "qty": "1"}, {"requirement": "mest patienter", "qty": "15"}], "credits": "3000"}
