@@ -1,1 +1,5 @@
+<<<<<<< HEAD
 {"missionId": "653", "missionName": "Brand auf Schultoilette", "requirements": [{"requirement": "löschfahrzeuge", "qty": "3"}, {"requirement": "drehleitern", "qty": "1"}, {"requirement": "elw 1", "qty": "1"}, {"requirement": "streifenwagen", "qty": "2"}, {"requirement": "rtw", "qty": "3"}, {"requirement": "nef", "qty": "1"}], "credits": "2000"}
+=======
+{"missionId": "653", "missionName": "Brand auf Schultoilette", "requirements": [{"requirement": "löschfahrzeuge", "qty": "3"}, {"requirement": "drehleitern", "qty": "1"}, {"requirement": "elw 1", "qty": "1"}, {"requirement": "streifenwagen", "qty": "2"}, {"requirement": "maximale patientenanzahl", "qty": "3"}], "credits": "2000"}
+>>>>>>> 940072a98b9a2a442b971a903fe4d66b347497b2
