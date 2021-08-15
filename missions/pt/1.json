@@ -1,1 +1,1 @@
-{"missionId": "1", "missionName": "Incêndio num contentor do lixo", "requirements": [{"requirement": "veículos de combate a incêndios necessários", "qty": "1"}], "credits": "170"}
+{"missionId": "1", "missionName": "Incêndio num contentor do lixo", "requirements": [{"requirement": "veículos de combate a incêndios necessários:", "qty": "1"}], "credits": "170"}
