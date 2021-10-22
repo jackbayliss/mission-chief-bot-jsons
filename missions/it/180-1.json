@@ -1,0 +1,1 @@
+{"missionId": "180-1", "missionName": "Incendio industria (PICCOLO)", "requirements": [{"requirement": "aps/abp", "qty": "2"}, {"requirement": "unità polisoccorso", "qty": "1"}, {"requirement": "pattuglie", "qty": "1"}, {"requirement": "max pazienti", "qty": "5"}], "credits": "1100"}

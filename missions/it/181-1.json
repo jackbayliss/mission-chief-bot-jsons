@@ -1,0 +1,1 @@
+{"missionId": "181-1", "missionName": "Incendio industria (MEDIO)", "requirements": [{"requirement": "aps/abp", "qty": "3"}, {"requirement": "unità polisoccorso", "qty": "2"}, {"requirement": "autoscale", "qty": "1"}, {"requirement": "pattuglie", "qty": "2"}, {"requirement": "max pazienti", "qty": "25"}], "credits": "1525"}

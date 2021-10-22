@@ -1,0 +1,1 @@
+{"missionId": "182-1", "missionName": "Incendio industria (GRANDE)", "requirements": [{"requirement": "aps/abp", "qty": "6"}, {"requirement": "unità polisoccorso", "qty": "4"}, {"requirement": "autoscale", "qty": "1"}, {"requirement": "pattuglie", "qty": "4"}, {"requirement": "kilolitriche", "qty": "1"}, {"requirement": "max pazienti", "qty": "30"}], "credits": "3000"}
