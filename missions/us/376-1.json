@@ -1,0 +1,1 @@
+{"missionId": "376-1", "missionName": "Plane off the runway", "requirements": [{"requirement": "firetrucks", "qty": "2"}, {"requirement": "platform trucks", "qty": "1"}, {"requirement": "arff", "qty": "2"}, {"requirement": "ambulances", "qty": "2"}, {"requirement": "battalion chief vehicles", "qty": "1"}, {"requirement": "max. patients", "qty": "20"}], "credits": "3200"}
