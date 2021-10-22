@@ -1,0 +1,1 @@
+{"missionId": "34-1", "missionName": "病院火災", "requirements": [{"requirement": "消防車", "qty": "10"}, {"requirement": "水", "qty": "31000"}, {"requirement": "消防隊長車両", "qty": "2"}, {"requirement": "大型救助車両", "qty": "2"}, {"requirement": "プラットフォームトラック", "qty": "3"}, {"requirement": "最大患者", "qty": "25"}], "credits": "6400"}
