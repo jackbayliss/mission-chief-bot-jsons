@@ -1,0 +1,1 @@
+{"missionId": "132-1", "missionName": "工場の小規模火災", "requirements": [{"requirement": "消防車", "qty": "4"}, {"requirement": "水", "qty": "10000"}, {"requirement": "消防隊長車両", "qty": "2"}, {"requirement": "指令車", "qty": "1"}, {"requirement": "最大患者", "qty": "3"}], "credits": "2200"}
