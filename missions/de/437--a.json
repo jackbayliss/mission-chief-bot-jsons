@@ -1,1 +1,1 @@
-{"missionId": "437/a", "missionName": "Taxi - Stiller Alarm", "requirements": [{"requirement": "streifenwagen", "qty": "2"}, {"requirement": "funkstreifenwagen (dienstgruppenleitung)", "qty": "1"}, {"requirement": "maximale patientenanzahl", "qty": "1"}], "credits": "800"}
+{"missionId": "437/a", "missionName": "Taxi - Stiller Alarm", "requirements": [{"requirement": "streifenwagen", "qty": "2"}, {"requirement": "funkstreifenwagen (dienstgruppenleitung)", "qty": "1"}, {"requirement": "rtw, naw", "qty": "1"}], "credits": "800"}
